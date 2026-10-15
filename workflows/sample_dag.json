@@ -1,0 +1,11 @@
+{
+  "tasks": [
+    {"id": "A", "cpu": 2, "mem": 512},
+    {"id": "B", "cpu": 3, "mem": 1024},
+    {"id": "C", "cpu": 1, "mem": 256}
+  ],
+  "dependencies": [
+    {"from": "A", "to": "B"},
+    {"from": "A", "to": "C"}
+  ]
+}
