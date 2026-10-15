@@ -74,7 +74,7 @@ Adding learned DVFS control cuts energy cost by **about 19% compared with a PSO-
 Requires Python 3.10+.
 
 ```bash
-git clone https://github.com/<your-username>/energy-aware-workflow-scheduling-pso-ppo.git
+git clone https://github.com/Aneesh291/energy-aware-workflow-scheduling-pso-ppo.git
 cd energy-aware-workflow-scheduling-pso-ppo
 pip install -r requirements.txt
 ```
