@@ -1,8 +1,8 @@
-numpy
+numpy>=2.0
 pandas
 scipy
 matplotlib
 networkx
-gymnasium
-stable-baselines3
-torch
+gymnasium>=1.0
+stable-baselines3>=2.6.0
+torch>=2.0
